@@ -1,0 +1,4 @@
+[33m1af298f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Initial commit
+[33ma58d277[m init commit
+[33m1225b47[m init commit
+[33mc1fff5c[m[33m ([m[1;31morigin/master[m[33m)[m Load DISCORD_TOKEN from environment; remove hardcoded token
